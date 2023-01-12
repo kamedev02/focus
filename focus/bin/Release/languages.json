@@ -1,0 +1,172 @@
+﻿[
+  {
+    "ID": "language",
+    "VI": "Tiếng Việt",
+    "EN": "English"
+  },
+  {
+    "ID": "config",
+    "VI": "Cấu hình",
+    "EN": "Configs"
+  },
+  {
+    "ID": "setting",
+    "VI": "Cài đặt",
+    "EN": "Settings"
+  },
+  {
+    "ID": "system",
+    "VI": "Hệ thống",
+    "EN": "System"
+  },
+  {
+    "ID": "custom",
+    "VI": "Tuỳ chỉnh",
+    "EN": "Custom"
+  },
+  {
+    "ID": "other",
+    "VI": "Khác",
+    "EN": "Other"
+  },
+  {
+    "ID": "runasadministrator",
+    "VI": "Chạy với quyền Admin",
+    "EN": "Run as Administrator"
+  },
+  {
+    "ID": "runatboottime",
+    "VI": "Khởi động cùng Windows",
+    "EN": "Auto-run at boot time"
+  },
+  {
+    "ID": "showatstartup",
+    "VI": "Hiện khi khởi động",
+    "EN": "Show dialog at startup"
+  },
+  {
+    "ID": "notificationsound",
+    "VI": "Âm thanh thông báo",
+    "EN": "Notification sound"
+  },
+  {
+    "ID": "focustime",
+    "VI": "Thời gian tập trung",
+    "EN": "Focus time"
+  },
+  {
+    "ID": "breaktime",
+    "VI": "Thời gian nghỉ",
+    "EN": "Break time"
+  },
+  {
+    "ID": "settime",
+    "VI": "Đặt giờ",
+    "EN": "Set time"
+  },
+  {
+    "ID": "minute",
+    "VI": "Phút",
+    "EN": "Minutes"
+  },
+  {
+    "ID": "times",
+    "VI": "Lần",
+    "EN": "Times"
+  },
+  {
+    "ID": "numberofbreak",
+    "VI": "Số lần nghỉ",
+    "EN": "Number of breaks"
+  },
+  {
+    "ID": "shortbreak",
+    "VI": "Nghỉ ngắn",
+    "EN": "Short break"
+  },
+  {
+    "ID": "longbreak",
+    "VI": "Nghỉ dài",
+    "EN": "Long break"
+  },
+  {
+    "ID": "repeat",
+    "VI": "Lặp lại",
+    "EN": "Repeat"
+  },
+  {
+    "ID": "once",
+    "VI": "Một lần",
+    "EN": "Once"
+  },
+  {
+    "ID": "infinite",
+    "VI": "Vô hạn",
+    "EN": "Infinite"
+  },
+  {
+    "ID": "setcolor",
+    "VI": "Đặt màu",
+    "EN": "Set color"
+  },
+  {
+    "ID": "save",
+    "VI": "Lưu",
+    "EN": "Save"
+  },
+  {
+    "ID": "changewaitingwallpaper",
+    "VI": "Đổi hình nền chờ",
+    "EN": "Change waiting wallpaper"
+  },
+  {
+    "ID": "preview",
+    "VI": "Xem trước",
+    "EN": "Preview"
+  },
+  {
+    "ID": "traytitle",
+    "VI": "Thông báo",
+    "EN": "Notification"
+  },
+  {
+    "ID": "traycontent",
+    "VI": "Ứng dụng đang chạy nền\nClick chuột phải lên icon để hiển thị các lựa chọn",
+    "EN": "App is runing in background\nRight click on tray icon to view options"
+  },
+  {
+    "ID": "quitconfirm",
+    "VI": "Bạn có muốn đóng ứng dụng không?",
+    "EN": "Are you sure you want to exit?"
+  },
+  {
+    "ID": "quitcaption",
+    "VI": "Đóng ứng dụng?",
+    "EN": "Exit?"
+  },
+  {
+    "ID": "stripconfigshow",
+    "VI": "Hiển thị",
+    "EN": "Show"
+  },
+  {
+    "ID": "stripstart",
+    "VI": "Bắt đầu",
+    "EN": "Start"
+  },
+  {
+    "ID": "strippause",
+    "VI": "Tạm dừng",
+    "EN": "Pause"
+  },
+  {
+    "ID": "stripstop",
+    "VI": "Dừng",
+    "EN": "Stop"
+  },
+  {
+    "ID": "stripexit",
+    "VI": "Thoát",
+    "EN": "Exit"
+  }
+]
