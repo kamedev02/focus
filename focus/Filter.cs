@@ -1,5 +1,4 @@
 ﻿using focus.Common;
-using Microsoft.Office.Interop.Excel;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -17,6 +16,7 @@ namespace focus
         public delegate void ChangeImage(Bitmap image);
 
         public event ChangeImage OnChangeImage;
+
         public frmFilter()
         {
             InitializeComponent();
@@ -69,7 +69,6 @@ namespace focus
                 string focustime = INI.READ(pathconfig, "Config", "Focustime");
                 string breaktime = INI.READ(pathconfig, "Config", "Breaktime");
                 string time = DateTime.Now.ToString("HH:mm:ss");
-
 
                 string executeFolder = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
                 string filePath = Path.Combine(executeFolder, "data\\report.json");

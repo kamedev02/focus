@@ -1,44 +1,3 @@
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\bin\Release\focus.exe.config
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\bin\Release\focus.exe
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\bin\Release\focus.pdb
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\bin\Release\Newtonsoft.Json.dll
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\bin\Release\Newtonsoft.Json.xml
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.frmFilter.resources
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.frmMain.resources
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.Properties.Resources.resources
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.frmTea.resources
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.csproj.GenerateResource.cache
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.csproj.CoreCompileInputs.cache
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.csproj.CopyComplete
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.exe
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.pdb
-C:\Users\KameDev - DELL\Documents\Code\ASP\focus\focus\obj\Release\focus.csproj.AssemblyReference.cache
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\focus.exe.config
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\focus.exe
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\focus.pdb
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\Newtonsoft.Json.dll
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\Newtonsoft.Json.xml
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.frmFilter.resources
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.frmMain.resources
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.Properties.Resources.resources
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.frmTea.resources
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.csproj.GenerateResource.cache
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.csproj.CoreCompileInputs.cache
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.csproj.CopyComplete
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.exe
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.pdb
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.csproj.AssemblyReference.cache
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.frmReport.resources
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\obj\Release\focus.Common.ReportCard.resources
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.dll
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.WinForms.dll
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.Wpf.dll
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.pdb
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.xml
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.WinForms.pdb
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.WinForms.xml
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.Wpf.pdb
-C:\Users\KameDev - DELL\Documents\Code\C-Sharp\focus\focus\bin\Release\LiveCharts.Wpf.xml
 C:\Users\KameDev\Documents\Code\focus\focus\bin\Release\focus.exe.config
 C:\Users\KameDev\Documents\Code\focus\focus\bin\Release\focus.exe
 C:\Users\KameDev\Documents\Code\focus\focus\bin\Release\focus.pdb
@@ -64,3 +23,4 @@ C:\Users\KameDev\Documents\Code\focus\focus\obj\Release\focus.csproj.CoreCompile
 C:\Users\KameDev\Documents\Code\focus\focus\obj\Release\focus.csproj.CopyComplete
 C:\Users\KameDev\Documents\Code\focus\focus\obj\Release\focus.exe
 C:\Users\KameDev\Documents\Code\focus\focus\obj\Release\focus.pdb
+C:\Users\KameDev\Documents\Code\focus\focus\obj\Release\focus.csproj.AssemblyReference.cache
